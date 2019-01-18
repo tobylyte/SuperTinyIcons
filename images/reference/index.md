@@ -113,3 +113,4 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/bitwarden.svg" width="256" />	| <img src="/images/reference/bitwarden.png" width="256" />	| https://github.com/bitwarden/brand |
 | <img src="/images/svg/slack.svg" width="256" />	| <img src="/images/reference/slack.svg" width="256" />	| https://slack.com/media-kit |
 | <img src="/images/svg/bandcamp.svg" width="256" />	| <img src="/images/reference/bandcamp.png" width="256" />	| https://bandcamp.com/buttons |
+| <img src="/images/svg/react.svg" width="256" />	| <img src="/images/reference/react.svg" width="256" />	| https://reactjs.org/ |
